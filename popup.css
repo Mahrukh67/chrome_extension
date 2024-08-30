@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    width: 200px;
+}
+
+#color-display {
+    margin-top: 10px;
+}
+
+#color-code {
+    display: block;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#copy-color {
+    margin-top: 10px;
+}
